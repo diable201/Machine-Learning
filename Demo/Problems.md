@@ -21,14 +21,11 @@ __Answer:__
 Let $X$ and $y$ be the feature matrix and the vector of targets. In the gradient descent algorithm the weights of linear regression model are updated by the rule 
 $$w = w - \eta \nabla \mathcal{L}(w)$$
 
-
-$
-\text{What is the formula for } \nabla \mathcal{L}(w)? \\[0.5em]$
+$\text{What is the formula for } \nabla \mathcal{L}(w)?$
 
 __Answer:__
 
-$\quad \nabla \mathcal{L}(w) = X^T(Xw - y) \\[0.5em]$
-
+$\quad \nabla \mathcal{L}(w) = X^T(Xw - y)$
 
 ## D. Sigmoid' 2
 

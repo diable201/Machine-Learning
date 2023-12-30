@@ -41,8 +41,8 @@ __Answer:__
 ## D. Pooling 3
 
 Apply $3 \times 3$ max pooling with stride $3$ to the following matrix:
-$$
 
+$$
 \begin{pmatrix}
 156 & 161 & 121 & 173 & 53 & 203 & 188 & 225 & 190 \\
 59 & 151 & 120 & 255 & 114 & 165 & 162 & 236 & 56 \\
@@ -51,7 +51,6 @@ $$
 146 & 77 & 89 & 226 & 47 & 16 & 117 & 4 & 73 \\
 38 & 146 & 221 & 232 & 63 & 25 & 91 & 113 & 194 \\
 \end{pmatrix}
-
 $$
 
 Type elements of the result separated by a single space.
