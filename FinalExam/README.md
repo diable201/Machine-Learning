@@ -74,7 +74,7 @@ __Answer:__
 
 228 255 236 221 246 237
 
-### E. RL decision
+## E. RL decision
 In reinforcement learning, how do we call the decision strategy of an agent which tries to maximize total cumulative reward?
 
 __Answer__:
@@ -262,5 +262,3 @@ def MultiLogRegGrad(X: np.array, y: np.array, W: np.array) -> np.array:
 
     return grad
 ```
-
-
