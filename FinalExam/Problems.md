@@ -14,9 +14,8 @@ __Answer:__
 ## B. MAP = MLE
 
 Consider a standard linear regression model
-$$
-y_i = x_i^T w + \varepsilon_i, \quad \varepsilon_i \sim \mathcal{N}(0, \sigma^2), \quad i = 1, \ldots, n.
-$$
+
+$y_i = x_i^T w + \varepsilon_i, \quad \varepsilon_i \sim \mathcal{N}(0, \sigma^2), \quad i = 1, \ldots, n.$
 
 Under which condition MLE estimation of the parameters $w$ is almost identical to MAP estimation with Gaussian prior $p(w) = \mathcal{N}(w|0, \tau^2 I)$?
 
