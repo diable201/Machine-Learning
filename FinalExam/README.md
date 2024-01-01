@@ -205,6 +205,10 @@ __Notes:__
 
 Round your answer up to four decimal places if necessary. For example, if your answer is $0.123456789$, submit $0.1235$.
 
+__Answer:__
+
+* 0.1197
+
 ## M. Return
 
 Implement the function
